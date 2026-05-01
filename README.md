@@ -1,59 +1,41 @@
 <h1 align="center">Hi 👋, I'm Spooky</h1>
-<h3 align="center">A passionate developer from Chile</h3>
+<h3 align="center">Full-Stack Dev | Cybersecurity | Hardware Hacker</h3>
 
-<!-- GIF DE BIENVENIDA -->
+<!-- WELCOME GIF -->
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FxNWtrem9ua3JkOG1jbXJsN2YwazJiNnlyZXgxdHJlcmFuZXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gO4WEBNiNtVfo8ewM5/giphy.gif" width="400"
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FxNWtrem9ua3JkOG1jbXJsN2YwazJiNnlyZXgxdHJlcmFuZXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gO4WEBNiNtVfo8ewM5/giphy.gif" width="400" />
 </div>
 
-- 🌱 I’m currently learning **Cybersecurity**
+### 🔍 Who am I?
+I'm someone who needs to understand the full picture. I don't just build apps or websites; I enjoy diving into the **databases** that power them, the **electronics** that run the hardware, and the **code** that brings it all to life.
+
+For me, it's all about the "Ground-up" approach:
+- 🛠️ **Building & Fixing:** From soldering components to designing full-stack projects, I love creating things from scratch and figuring out how to repair them when they break.
+- 🛡️ **Security Mindset:** I explore the full spectrum of Cybersecurity—from offensive **attacking** and **digital forensics** to defensive **protection**. 
+- 🕹️ **Always Learning:** Whether it's a new programming language or a new video game, I’m constantly looking for the next thing to learn.
+- 🌎 **Languages:** Native Spanish / Advanced English (C1/C2).
 
 ---
 
-### 💻 Tech Stack (Languages & Frameworks)
+### 💻 Toolset
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="c++"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="c#"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45" height="45" alt="kotlin"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="django"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="nodejs"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="45" height="45" alt="arduino"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="mysql"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45" alt="unity"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="html5"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="css3"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45" height="45" alt="android"/></td>
   </tr>
 </table>
 
-### ☁️ Cloud, DevOps & OS
+### 🛡️ Systems & Security
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="aws"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="gcp"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="firebase"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="docker"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="git"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="nginx"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="linux"/></td>
-  </tr>
-</table>
-
-### 📊 Data Science & Databases
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="pytorch"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="sklearn"/></td>
-    <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="seaborn"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="mysql"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="45" alt="mariadb"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="45" height="45" alt="cassandra"/></td>
-  </tr>
-</table>
-
-### 🎮 Mobile & Hardware
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="android"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" alt="unity"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="arduino"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="kali"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45" height="45" alt="redhat"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="bash"/></td>
   </tr>
 </table>
