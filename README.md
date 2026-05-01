@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Spooky</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
+<!-- GIF DE BIENVENIDA -->
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FxNWtrem9ua3JkOG1jbXJsN2YwazJiNnlyZXgxdHJlcmFuZXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gO4WEBNiNtVfo8ewM5/giphy.gif" width="200"
+</div>
+
 - 🌱 I’m currently learning **Cybersecurity**
 
 ---
@@ -41,5 +46,14 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="mysql"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="45" alt="mariadb"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="45" height="45" alt="cassandra"/></td>
+  </tr>
+</table>
+
+### 🎮 Mobile & Hardware
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="android"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" alt="unity"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="arduino"/></td>
   </tr>
 </table>
