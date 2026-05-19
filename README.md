@@ -6,20 +6,22 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FxNWtrem9ua3JkOG1jbXJsN2YwazJiNnlyZXgxdHJlcmFuZXA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gO4WEBNiNtVfo8ewM5/giphy.gif" width="400" />
 </div>
 
-### 🔍 About Me
-I'm someone who loves learning how things work from the inside out. While I enjoy building apps and exploring data, my main focus is currently on **Cybersecurity**. I'm constantly learning new things and moving from personal labs to real-world projects.
+### About Me
 
-- **🛡️ Cybersecurity Interests:**
-  - **Offensive:** Penetration testing and attacking strategies.
-  - **Defensive:** Protecting systems and strengthening infrastructures.
-  - **Forensics:** Investigating breaches and digital detective work.
-- **⚙️ Hardware & Networks:** I love building and taking things apart. I enjoy working with networks and writing code for **microcontrollers**, bridging the gap between hardware and security.
-- **💻 Development:** I build games, apps, and websites, always keeping an eye on **Data Analysis** to understand the information behind the code.
-- **🌎 Languages:** Native Spanish | Advanced English (C1/C2).
+Passionate about Cybersecurity, software development, networks, and IoT.  
+I enjoy building projects with microcontrollers, exploring how systems work internally, and learning new technologies through practice and personal projects.
+
+Currently focused on improving my skills in:
+- Cybersecurity
+- Full-Stack Development
+- Hardware & IoT
+- Networks and Systems
+
+Native Spanish | Advanced English
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python"/></td>
@@ -33,7 +35,7 @@ I'm someone who loves learning how things work from the inside out. While I enjo
   </tr>
 </table>
 
-### 🛡️ Cybersecurity & Systems
+### Cybersecurity & Systems
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="kali"/></td>
